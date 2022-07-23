@@ -7,6 +7,7 @@
 This project aimed to create code which could sort through large amounts of data based on Pressurized Nuclear Reactor 
 Data provided by Siemens Energy
 
+![Example of dataset](https://github.com/douglascarrie/Detecting-Bacteria-in-Blood-with-Image-Processing/blob/master/output/example.png)
 
 ##### Challenges faced in this project: 
 - Using MapReduce to gain mean values from dataset 
