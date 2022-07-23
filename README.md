@@ -21,5 +21,15 @@ Best to install with Anaconda.
 
 Requires Small dataset and Large dataset.
 
+Problems: 
+- The larger dataset is 143mb, which exceeds GitHubs max file size
+
 ---
+
+### Report
+
+A report was created (pdf) to explain further each method used, this was done as part of an assessment.
+
+Link to report: [Click here](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Big%20Data%20analysis.pdf)
+
 
