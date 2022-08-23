@@ -10,7 +10,7 @@ Data provided by Siemens Energy.
 The Dataset contains 3 different types of Sensors which are extracted from real world Pressurized Nuclear Reactors.
 The data contains 4 of each sensor meaning there are 12 overall pieces of sensor data.
 
-The 3 Sensors are: Power Range sensor, Pressure sensor and Vibration sensor.
+The 3 Sensors are: **Power Range sensor**, **Pressure sensor** and **Vibration sensor**.
 
 The Dataset also contains a column called Status. The column indicates whether the Reactor is working Normally or Abnormally.
 
