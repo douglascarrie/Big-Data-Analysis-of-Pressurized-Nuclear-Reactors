@@ -14,11 +14,12 @@ The 3 Sensors are: **Power Range sensor**, **Pressure sensor** and **Vibration s
 
 The Dataset also contains a column called Status. The column indicates whether the Reactor is working Normally or Abnormally.
 
-<br>
 A Decision Tree, Learning Support Vector and Neural Network were created to predict the Status Column based on the 12 pieces of sensor data.
 
 The Decision Tree returned the highest accuracy of 82.0%, Meaning it can predict the status of the reactor 82 percent of the time. 
-<br>
+
+
+
 The Jupyter Notebook file demostrates different stages in the development of sorting and cleaning the data, extracting useful information 
 and making predictions using the data.
 
