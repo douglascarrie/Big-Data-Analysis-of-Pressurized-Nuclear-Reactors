@@ -32,8 +32,9 @@ and making predictions using the data.
 ---
 
 Structure of dataset (.CSV file):
-![Example of dataset](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Structure.png)
 
+
+<img src="https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Structure.png" alt="Example of structure" width="200"/>
 ![Example of dataset](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Structure-grid.png)
 
 ##### Challenges faced in this project: 
