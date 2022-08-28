@@ -16,7 +16,7 @@ The Dataset also contains a column called Status. The column indicates whether t
 
 A Decision Tree, Learning Support Vector and Neural Network were created to predict the Status Column based on the 12 pieces of sensor data.
 
-The Decision Tree returned the highest accuracy of 82.0%, Meaning it can predict the status of the reactor 82 percent of the time. 
+The Decision Tree returned the highest **accuracy of 82.0%** , meaning it can predict the status of the reactor 82 percent of the time using the data. 
 
 
 
@@ -26,7 +26,7 @@ and making predictions using the data.
 
 
 
-[Click here](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Big%20Data%20analysis.pdf) to view the Jupyter file.
+[Click here](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/main.ipynb) to view the Jupyter file.
 <br>
 
 ---
@@ -60,6 +60,8 @@ Problems:
 ### Report
 
 A report was created (pdf) to explain further each method used, this was done as part of an assessment.
+
+The first part of the PDF is an analysis over different methods used to analyse data using American Express as an example.
 
 Link to report: [Click here](https://github.com/douglascarrie/Big-Data-Analysis-of-Pressurized-Nuclear-Reactors/blob/master/Big%20Data%20analysis.pdf)
 
